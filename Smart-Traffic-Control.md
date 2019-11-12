@@ -1,0 +1,11 @@
+Automated transport system is a system in which the traffic light are controlled automatically using sensors, on different time interval different timings of red lights are maintained according to the density of vehicles on the road.
+Presently, the automated Transport system work on the weight of vehicles on the road. Sensors are fitted inside the road to calculate the pressure on the road due to different vehicles on the road. According to the pressure and weight of vehicles the software calculates the timing red light at different interval for different roads.
+
+In the above system we have shown 4 roads connected at a junction and the traffic is regulated using a Traffic light. There are sensors installed inside each road which are connected to a pc and pc regulates the traffic light according the information given by sensors and traffic is regulated.
+
+As we have discussed about the automated transport system, we were using sensors inside the road to sense the amount of traffic. But if sensor get damaged we have to dig the road and change the sensors. In order to save money and time we have developed an efficient technique to overcome this problem.
+
+We can use cameras at all traffic signals to sense the amount of traffic on road using the concept of Open-CV and machine learning. In this we can use the technology known as open-CV which can sense the category of vehicle as well as number of vehicles from the images and videos provided by the cameras. The data is recorded by the cameras at the traffic signals and data is passed on to the devices which runs Open-cv and ml software on this and helps to decide the amount of traffic and type of traffic on road and after calculation gives the decision which traffic light should be operated for how much duration. 
+All this info is passed to the traffic control centres using an IoT device and using all this data and other conditions like climate, road accidents and other various emergency factors. Traffic control rooms will be able to make the system work on automation and all the final decision remain with the officers of traffic control rooms.
+
+By this concept we can actually make a good, efficient and high performance system. where all emergency conditions can be kept. We can understand the whole concept more by a diagram more below.
